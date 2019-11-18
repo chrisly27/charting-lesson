@@ -10,7 +10,7 @@
     <body>
         <div class="container">
             
-            <canvas width="600" height="400" id="graph"></canvas>
+            <canvas width="400" height="100" id="graph"></canvas>
         </div>
 
         <script src="/js/main.js"></script>
